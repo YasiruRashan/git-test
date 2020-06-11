@@ -1,2 +1,2 @@
 Welcome to the Github desktop.
-This is really cool .
+Github desktop is very user-friendly than using Git bash.(Command line Interface)
